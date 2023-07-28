@@ -1,0 +1,51 @@
+﻿<doc>
+  <!--Element removed by: "GreatOldOnes1.5" (XPath: "/doc/backgrounds")-->
+  <tips>
+    <tip key="loadingTipMainHUD" />
+    <tip key="loadingTipStoneAxe" />
+    <tip key="loadingTipHarvestingResources" />
+    <tip key="loadingTipDistraction" />
+    <tip key="loadingTipStealth" />
+    <tip key="loadingTipEncumbrance" />
+    <tip key="loadingTipArmor" />
+    <tip key="loadingTipBandages" />
+    <tip key="loadingTipJournalEntries" />
+    <tip key="loadingTipQuestSharing" />
+    <tip key="loadingTipWhatIsItGoodFor" />
+    <tip key="loadingTipWorkstations" />
+    <tip key="loadingTipUnlockingRecipes" />
+    <tip key="loadingTipCraftingBetterQL" />
+    <tip key="loadingTipMagazines" />
+    <tip key="loadingTipPerkLootBoost" />
+    <tip key="loadingTipBaseUpgrading" />
+    <tip key="loadingTipRadials" />
+    <tip key="loadingTipHarvestingCorpses" />
+    <tip key="loadingTipGlue" />
+    <tip key="loadingTipProperTools" />
+    <tip key="loadingTipItemStats" />
+    <tip key="loadingTipExtCharStats" />
+    <tip key="loadingTipBladedWeapons" />
+    <tip key="loadingTipPickaxes" />
+    <tip key="loadingTipAxes" />
+    <tip key="loadingTipSteelKnuckles" />
+    <tip key="loadingTipWrenches" />
+    <tip key="loadingTipSledgehammers" />
+    <tip key="loadingTipUsingIronTools" />
+    <tip key="loadingTipScrapping" />
+    <tip key="loadingTipBuffs" />
+    <tip key="loadingTipKnownSchematics" />
+    <tip key="loadingTipTwitchIntegration" />
+  </tips>
+  <backgrounds>
+    <!--Element appended by: "GreatOldOnes1.5"-->
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds1.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds2.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds3.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds4.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds5.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds6.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds7.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds8.png" />
+    <tex file="@modfolder(GreatOldOnes1.5):Images/ws_backgrounds9.png" />
+  </backgrounds>
+</doc>

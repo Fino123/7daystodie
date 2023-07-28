@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002fce7396f4f7291d3ecf719e69d17" nativeplatform="Steam" nativeuserid="76561198238061988" playername="Fino" lastlogin="2023-07-28 03:49:43" position="1328,78,-842">
+    <acl platform="EOS" userid="0002179231954744b1fbf29e75fd55d2" />
+    <acl platform="EOS" userid="0002bfb3d12e4ef58a8ce9b1f78af51b" />
+    <bedroll pos="1330,78,-850" />
+  </player>
+  <player platform="EOS" userid="0002bfb3d12e4ef58a8ce9b1f78af51b" nativeplatform="Steam" nativeuserid="76561198935891735" playername="提醒喝水小助手" lastlogin="2023-07-28 03:49:22" position="1335,65,-838">
+    <acl platform="EOS" userid="0002fce7396f4f7291d3ecf719e69d17" />
+    <bedroll pos="1326,78,-850" />
+  </player>
+  <player platform="EOS" userid="0002179231954744b1fbf29e75fd55d2" nativeplatform="Steam" nativeuserid="76561198365365466" playername="Cold" lastlogin="2023-07-28 03:49:30" position="1332,78,-841">
+    <acl platform="EOS" userid="0002fce7396f4f7291d3ecf719e69d17" />
+    <backpack id="4665" pos="1302,65,-891" timestamp="6926" />
+    <bedroll pos="1326,78,-849" />
+  </player>
+</persistentplayerdata>
